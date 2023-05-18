@@ -5,6 +5,10 @@
   font-family: "Roboto", sans-serif;
   color: #303030;
 }
+body {
+  display: flex;
+  justify-content: center;
+}
 
 ::-webkit-scrollbar {
   width: 6px;
